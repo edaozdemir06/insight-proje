@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item
+    android:id="@+id/menuHome"
+    android:icon="@drawable/ic_home"
+    android:title="@string/ana_sayfa"/>
+    <item
+        android:id="@+id/menuAccount"
+        android:icon="@drawable/ic_account_circle"
+        android:title="@string/hesab_m"/>
+    <item
+        android:id="@+id/menuSettings"
+        android:icon="@drawable/ic_settings"
+        android:title="@string/ayarlar"/>
+    <item
+        android:id="@+id/menuExit"
+        android:icon="@drawable/ic_exit"
+        android:title="@string/k_yap"/>
+
+</menu>

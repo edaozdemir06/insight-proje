@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">INSIGHT PROJE</string>
+    <string name="kullan_c_giri_i">Kullanıcı Girişi</string>
+    <string name="kullan_c_ad">Kullanıcı Adı</string>
+    <string name="ifre">Şifre</string>
+    <string name="g_r">GİRİŞ</string>
+    <string name="merhaba">Merhaba</string>
+    <string name="admin">Admin</string>
+    <string name="aramak_istedi_iniz_eyi_yaz_n">Aramak istediğiniz şeyi yazın...</string>
+    <string name="hesab_im">Hesabım</string>
+    <string name="t_ketim">Tüketim</string>
+    <string name="harcanan_su">Harcanan Su</string>
+    <string name="bildirimler">Bildirimler</string>
+    <string name="kesit">Kesit</string>
+    <string name="sende_t_ketiminin_bilincinde_ol_sraf_n_n_ne_ge">Sende Tüketiminin Bilincinde Ol. İsrafın önüne geç.</string>
+    <string name="ana_sayfa">Ana Sayfa</string>
+    <string name="hesab_m">Hesabım</string>
+    <string name="ayarlar">Ayarlar</string>
+    <string name="k_yap">Çıkış Yap</string>
+</resources>
