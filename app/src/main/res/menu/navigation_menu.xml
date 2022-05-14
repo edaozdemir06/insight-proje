@@ -6,7 +6,7 @@
     android:title="@string/ana_sayfa"/>
     <item
         android:id="@+id/menuAccount"
-        android:icon="@drawable/ic_account_circle"
+        android:icon="@drawable/ic_account"
         android:title="@string/hesab_m"/>
     <item
         android:id="@+id/menuSettings"
